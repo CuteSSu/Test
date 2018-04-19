@@ -22,6 +22,7 @@
 		CD8B483B208828D200F2BE99 /* SearchingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8B483A208828D200F2BE99 /* SearchingViewController.swift */; };
 		CD8B483D208828F500F2BE99 /* AddingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8B483C208828F500F2BE99 /* AddingViewController.swift */; };
 		CD8B483F20882EF600F2BE99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD8B483E20882EF600F2BE99 /* Main.storyboard */; };
+		CD8B484120887D7000F2BE99 /* Assigmentttttt.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD8B484020887D7000F2BE99 /* Assigmentttttt.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		CD8B483A208828D200F2BE99 /* SearchingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchingViewController.swift; sourceTree = "<group>"; };
 		CD8B483C208828F500F2BE99 /* AddingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingViewController.swift; sourceTree = "<group>"; };
 		CD8B483E20882EF600F2BE99 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = "../../../../Volumes/김수민/Main.storyboard"; sourceTree = "<group>"; };
+		CD8B484020887D7000F2BE99 /* Assigmentttttt.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Assigmentttttt.storyboard; path = ../../Assigmentttttt.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		CD8B480E208824D800F2BE99 = {
 			isa = PBXGroup;
 			children = (
+				CD8B484020887D7000F2BE99 /* Assigmentttttt.storyboard */,
 				CD8B483E20882EF600F2BE99 /* Main.storyboard */,
 				CD8B4819208824D900F2BE99 /* Assigment */,
 				CD8B4818208824D900F2BE99 /* Products */,
@@ -160,6 +163,7 @@
 				CD8B482F208826D700F2BE99 /* 여자 발라드 오전 6.22.53.jpg in Resources */,
 				CD8B483F20882EF600F2BE99 /* Main.storyboard in Resources */,
 				CD8B4837208826EF00F2BE99 /* 남자 댄스 오전 6.20.50.jpg in Resources */,
+				CD8B484120887D7000F2BE99 /* Assigmentttttt.storyboard in Resources */,
 				CD8B4839208826F400F2BE99 /* 검색.png in Resources */,
 				CD8B482D208826CF00F2BE99 /* 음악.png in Resources */,
 				CD8B4835208826E900F2BE99 /* 남자 발라드 오전 6.22.53.jpg in Resources */,
